@@ -1,10 +1,10 @@
-# The Artificial Language ToolKit (ALTK)
+# The Unnatural Language ToolKit (ULTK)
 
 <img alt="Four examples of many recent results showing that natural languages are optimized for efficient communication." src="https://raw.githubusercontent.com/CLMBRs/altk/main/images/plots.jpeg" width="100%" />
 
 ## Introduction
 
-ALTK is a software library that aims to support [efficient communication analyses](https://github.com/CLMBRs/altk/blob/main/images/mit-altk.pdf) of natural language. This is a line of research that aims to explain why natural languages have the structure that they do in terms competing pressures to minimize cognitive complexity and maximize communicative accuracy.
+ULTK is a software library that aims to support [efficient communication analyses](https://github.com/CLMBRs/altk/blob/main/images/mit-altk.pdf) of natural language. This is a line of research that aims to explain why natural languages have the structure that they do in terms competing pressures to minimize cognitive complexity and maximize communicative accuracy.
 
 Key features:
 
@@ -13,17 +13,17 @@ Key features:
 - Language population sampling and optimization w.r.t Pareto fronts
 - Rate-Distortion and Information Bottleneck style analyses
 
-ALTK is a long term project and it is currently in its early stages. It is intended to help lower the barrier to entry for certain research in computational semantics, and to unify methodologies. If you find something confusing, please open an issue. If you have a phenomena of interest in linguistic semantics that you want to run an efficient communication analysis on, please contact the contributors.
+ULTK is a long term project and it is currently in its early stages. It is intended to help lower the barrier to entry for certain research in computational semantics, and to unify methodologies. If you find something confusing, please open an issue. If you have a phenomena of interest in linguistic semantics that you want to run an efficient communication analysis on, please contact the contributors.
 
 Read the [documentation](https://clmbr.shane.st/altk).
 
-## Installing ALTK
+## Installing ULTK
 
-First, set up a virtual environment (e.g. via [miniconda](https://docs.conda.io/en/latest/miniconda.html), `conda create -n altk python=3.11`, and `conda activate altk`).
+First, set up a virtual environment (e.g. via [miniconda](https://docs.conda.io/en/latest/miniconda.html), `conda create -n ultk python=3.11`, and `conda activate ultk`).
 
 1. Download or clone this repository and navigate to the root folder.
 
-2. Install ALTK (We recommend doing this inside a virtual environment)
+2. Install ULTK (We recommend doing this inside a virtual environment)
 
     `pip install -e .`
 
