@@ -36,9 +36,9 @@ First, set up a virtual environment (e.g. via [miniconda](https://docs.conda.io/
 
 ## Modules
 
-There are two modules. The first is [altk.effcomm](https://clmbr.shane.st/altk/altk/effcomm.html), which includes methods for measuring informativity of languages and/or communicative success of Rational Speech Act agents, and for language population sampling and optimization w.r.t Pareto fronts.
+There are two modules. The first is [ultk.effcomm](https://clmbr.shane.st/altk/altk/effcomm.html), which includes methods for measuring informativity of languages and/or communicative success of Rational Speech Act agents, and for language population sampling and optimization w.r.t Pareto fronts.
 
-The second module is [altk.language](https://clmbr.shane.st/altk/altk/language.html), which contains primitives for constructing semantic spaces, expressions, and languages.  It also has a `grammar` module which can be used for building expressions in a Language of Thought and measuring complexity in terms of minimum description length, as well as for natural language syntax.
+The second module is [ultk.language](https://clmbr.shane.st/altk/altk/language.html), which contains primitives for constructing semantic spaces, expressions, and languages.  It also has a `grammar` module which can be used for building expressions in a Language of Thought and measuring complexity in terms of minimum description length, as well as for natural language syntax.
 
 The source code is available on github [here](https://github.com/CLMBRs/altk).
 
